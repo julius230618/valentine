@@ -41,7 +41,7 @@ body {
   .flex {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: right;
     align-items: center;
     flex-wrap: wrap;
     gap: 20px;
@@ -166,6 +166,8 @@ body {
     height: 40px;
     width: 40px;
     object-fit: cover;
+    justify-content: right;
   }
 
   
+
